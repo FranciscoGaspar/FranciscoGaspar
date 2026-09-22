@@ -28,7 +28,3 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoGaspar&show_icons=true&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoGaspar&theme=dark&hide_border=false)<br/>
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=FranciscoGaspar&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
