@@ -21,7 +21,11 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 - 🔌 [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli) — CLI to validate and generate from AsyncAPI files (contributor)
 - 🚀 [Rexel Advisor](https://rexel-advisor.vercel.app/) — turns restaurant reviews shared in a WhatsApp group into a searchable app with a map and per-place pages (creator & maintainer)
 
-<video src="https://izbqdzneokborpjenhex.supabase.co/storage/v1/object/public/promo/brag.mp4" controls playsinline width="600"></video>
+
+
+https://github.com/user-attachments/assets/80b123de-1814-40b4-b7a4-98c5a4496aab
+
+
 
 ## Socials:
 
