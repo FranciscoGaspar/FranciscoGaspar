@@ -14,12 +14,11 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 
 ## Projects
 
-**[Rexel Advisor](https://rexel-advisor.vercel.app/)** — built and maintained by me
-
-[![Rexel Advisor preview](https://image.thum.io/get/width/1000/https://rexel-advisor.vercel.app/)](https://rexel-advisor.vercel.app/)
-
+- 🚀 [Rexel Advisor](https://rexel-advisor.vercel.app/) — turns restaurant reviews shared in a WhatsApp group into a searchable app with a map and per-place pages (creator & maintainer)
 - 🦆 [quack-as-a-service](https://github.com/FranciscoGaspar/quack-as-a-service) — AI-powered factory safety monitoring system (YOLO, AWS Rekognition, AWS Bedrock)
 - 🔌 [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli) — CLI to validate and generate from AsyncAPI files (contributor)
+
+[![Rexel Advisor preview](https://image.thum.io/get/width/1000/https://rexel-advisor.vercel.app/)](https://rexel-advisor.vercel.app/)
 
 ## Socials:
 <div>
