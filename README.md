@@ -3,24 +3,28 @@
 Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Portugal
 
 ## About Me
+
 - 🔧 Backend-leaning full-stack dev — Node/NestJS, TypeScript, React
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/francisco-gaspar)
 
 ## Focus Right Now
+
 🏠 Building out home automation & personal infra:
+
 - Self-hosted home server
 - Home Assistant integrations
 - Gmail → Supabase → iCloud Calendar invoice automation
 
 ## Projects
 
-- 🚀 [Rexel Advisor](https://rexel-advisor.vercel.app/) — turns restaurant reviews shared in a WhatsApp group into a searchable app with a map and per-place pages (creator & maintainer)
 - 🦆 [quack-as-a-service](https://github.com/FranciscoGaspar/quack-as-a-service) — AI-powered factory safety monitoring system (YOLO, AWS Rekognition, AWS Bedrock)
 - 🔌 [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli) — CLI to validate and generate from AsyncAPI files (contributor)
+- 🚀 [Rexel Advisor](https://rexel-advisor.vercel.app/) — turns restaurant reviews shared in a WhatsApp group into a searchable app with a map and per-place pages (creator & maintainer)
 
-[![Rexel Advisor preview](https://image.thum.io/get/width/1000/https://rexel-advisor.vercel.app/)](https://rexel-advisor.vercel.app/)
+<video src="https://izbqdzneokborpjenhex.supabase.co/storage/v1/object/public/promo/brag.mp4" controls playsinline width="600"></video>
 
 ## Socials:
+
 <div>
 <a href="https://github.com/FranciscoGaspar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,6 +38,7 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 </div>
 
 ## Tech Stack:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats:
