@@ -5,8 +5,14 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 ## About Me
 - 🔧 Backend-leaning full-stack dev — Node/NestJS, TypeScript, React
 - 🤝 Contribute to the [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli)
-- 🚀 Creating and managing [Rexel Advisor](https://rexel-advisor.vercel.app/)
+- 🔭 Currently exploring AI/computer vision — building [quack-as-a-service](https://github.com/FranciscoGaspar/quack-as-a-service), an AI-powered factory safety monitoring system (YOLO, AWS Rekognition, AWS Bedrock)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/francisco-gaspar)
+
+## Featured Project
+
+**[Rexel Advisor](https://rexel-advisor.vercel.app/)** — built and maintained by me
+
+[![Rexel Advisor preview](https://image.thum.io/get/width/1000/https://rexel-advisor.vercel.app/)](https://rexel-advisor.vercel.app/)
 
 ## Socials:
 <div>
@@ -28,3 +34,8 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoGaspar&show_icons=true&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoGaspar&theme=dark&hide_border=false)<br/>
+
+## Contribution Snake
+
+![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
