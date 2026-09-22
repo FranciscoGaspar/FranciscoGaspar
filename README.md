@@ -46,8 +46,3 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 
 ![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-## 3D Contribution Calendar
-
-![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FranciscoGaspar/FranciscoGaspar/main/profile-3d-contrib/profile-day-view.svg#gh-light-mode-only)
