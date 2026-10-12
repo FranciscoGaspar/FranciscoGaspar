@@ -4,7 +4,7 @@ Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Por
 
 ## About Me
 
-- 🔧 Backend-leaning full-stack dev — Node/NestJS, TypeScript, React. [Curriculum Vitae](https://franciscogaspar.xyz/)
+- 🔧 Backend-leaning full-stack dev — Node/NestJS, TypeScript, React. Check on my [Curriculum Vitae](https://franciscogaspar.xyz/)
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/francisco-gaspar)
 
 ## Focus Right Now
