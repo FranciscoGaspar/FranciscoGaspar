@@ -1,45 +1,27 @@
 # Hi, I'm Francisco Gaspar 👋
 
-Software Engineer @[xgeeks](https://github.com/xgeekshq) · based in Leiria, Portugal
+Software Engineer @[xgeeks](https://github.com/xgeekshq) · Leiria, Portugal · backend-leaning full-stack (Node/NestJS, TypeScript, React)
 
-## About Me
-
-- 🔧 Backend-leaning full-stack dev — Node/NestJS, TypeScript, React. Check on my [Curriculum Vitae](https://franciscogaspar.xyz/)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/francisco-gaspar)
-
-## Focus Right Now
-
-🏠 Building out home automation & personal infra:
-
-- Self-hosted home server
-- Home Assistant integrations
-- Gmail → Supabase → iCloud Calendar invoice automation
+[Website & CV](https://franciscogaspar.xyz) · [LinkedIn](https://linkedin.com/in/francisco-gaspar) · [GitLab](https://gitlab.com/FranciscoGaspar) · [Buy me a coffee](https://www.buymeacoffee.com/franciscogaspar)
 
 ## Projects
 
-- 🦆 [quack-as-a-service](https://github.com/FranciscoGaspar/quack-as-a-service) — AI-powered factory safety monitoring system (YOLO, AWS Rekognition, AWS Bedrock)
-- 🔌 [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli) — CLI to validate and generate from AsyncAPI files (contributor)
+- 🍽️ [LongTable](https://www.longtable.world) — rate restaurants with friends on web, iOS and Android · Next.js, Expo, Supabase
+- ⏰ [Soon](https://www.soon-tracker.com) — turns bill emails from Gmail into calendar payment reminders · Next.js, Supabase, Gmail API
+- 🚗 CarMan — a car's maintenance history, handed over when it's sold (in development) · Expo, SQLite
+- 🦆 [Quack as a Service](https://github.com/FranciscoGaspar/quack-as-a-service) — factory safety monitoring, hackathon Sep 2025 · FastAPI, YOLO, AWS Rekognition/Bedrock
+- 🔌 [AsyncAPI CLI](https://github.com/FranciscoGaspar/cli) — contributor
+- ✍️ [Introducing AutoGen](https://blog.xgeeks.com/ai-agents-101-with-autogen/) — xgeeks blog post on multi-agent LLM apps
 
+## Currently building
 
-## Socials:
+🏠 Home automation & personal infra: self-hosted home server, Home Assistant integrations.
 
-<div>
-<a href="https://github.com/FranciscoGaspar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/FranciscoGaspar" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/francisco-gaspar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
+## Stack
 
-## Tech Stack:
+TypeScript · Node/NestJS · React/Next.js · Expo/React Native · Python/FastAPI · PostgreSQL/Supabase · Redis · Docker · Azure/Terraform · AWS
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats:
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoGaspar&show_icons=true&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoGaspar&theme=dark&hide_border=false)<br/>
